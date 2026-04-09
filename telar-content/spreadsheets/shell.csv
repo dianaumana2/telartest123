@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,carved-strombus-shell,0.5,0.5,1,,What is this,shell,,,,,,,,
+2,carved-strombus-shell,0.1798360011509245,0.5676225030313868,2.0250000000000004,,,,,,,,,,,
+3,carved-strombus-shell,0.6345996416047862,0.44091355363984647,3.375,,,,,,,,,,,
