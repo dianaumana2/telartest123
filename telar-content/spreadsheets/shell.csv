@@ -1,5 +1,7 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,carved-strombus-shell,0.5,0.5,1,,What is this,shell,,,,,,,,
-2,carved-strombus-shell,0.1798360011509245,0.5676225030313868,2.0250000000000004,,,,,,,,,,,
-3,carved-strombus-shell,0.6345996416047862,0.44091355363984647,3.375,,,,,,,,,,,
+1,carved-strombus-shell,0.5864153840355163,0.5000506033562406,2.48832,,What do the symbols on the shell represent,"The symbols on the shell could possibly symbolize mythical, religious, and powerful deities that could be involved in the ceremonial usage of the shell. ",,,,,,,,
+2,carved-strombus-shell,0.4636316303632016,0.48277455586253376,0.9000000000000001,,"Where is the shell found? ","The original natural shell can be found on the coast of Peru. The altered artifact was found in the excavation site of the Chavin.  ",,,,,,,,
+3,carved-strombus-shell,0.6345996416047862,0.44091355363984647,3.375,,"What is the significance of the sound that the shell produced? ",,,,,,,,,
+4,,0.5,0.5,1,,"Who’s job was it to use the shell? ",,,,,,,,,
+5,,0.5,0.5,1,,"How does the shell connect to the beliefs found in Chavin culture? ",,,,,,,,,
